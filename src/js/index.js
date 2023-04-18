@@ -24,3 +24,4 @@ setInterval(function() {
     }
     ReactDOM.render(<Home segundo={num} minuto={num2} hora={num3} />, document.querySelector("#app"));
 }, 1000);
+
